@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z4GyZC4Bq+W90OCSH/k2Rc0NAWQIq/LNTN6kyg3myvL2sUBPLof5YgOM2YlkWOHTeAhFK8blJ8kZJrRujrtyoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vincent\\source\\repos\\dotnet-deploy-aks\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vincent\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
+    "C:\\Users\\Vincent\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
